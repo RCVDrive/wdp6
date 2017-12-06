@@ -1,0 +1,13 @@
+[{
+  "name": "Legend of Zelda: Breath of the Wild",
+  "image": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/7802443/NintendoSwitch_TLOZBreathoftheWild_boxart.jpg",
+  "description": "Game 1 is a game about",
+  "link": "http://google.com"
+},
+{
+  "name": "Super Mario Odyssey",
+  "image": "http://mms.businesswire.com/media/20170613006236/en/592427/5/Switch_SuperMarioOdyssey_illustration_02_FINAL.jpg",
+  "description": "Game 2 is a game about",
+  "link": "http://google.com"
+}
+]
